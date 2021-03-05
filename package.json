@@ -1,0 +1,23 @@
+{
+	"name": "ajs_new",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Suren73/ajs_new.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Suren73/ajs_new/issues"
+	},
+	"homepage": "https://github.com/Suren73/ajs_new#readme",
+	"dependencies": {
+		"@suren73/ajs": "^1.0.0"
+	}
+}
